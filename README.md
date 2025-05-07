@@ -13,9 +13,6 @@ Outputs structured data into a timestamped CSV file.
 Simple and extensible code structure for enhancements.
 
 🗂️ Folder Structure
-yaml
-Copy
-Edit
 APP_CATEGORY/
 │
 ├── services/                         # Core logic for scraping
