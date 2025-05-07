@@ -34,7 +34,7 @@ APP_CATEGORY/
 📦 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/app-category-scraper.git
+git clone https://github.com/Ashu-7041/App_category.git
 cd app-category-scraper
 Create a virtual environment (optional but recommended):
 
